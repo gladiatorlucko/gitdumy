@@ -1,0 +1,2 @@
+# gitdumy
+my first git
